@@ -16,7 +16,7 @@ Below are the shops participating in the sale, grouped by country/region. Expect
 ### USA
 | Shop Name         | Website                    | Price       | Coupon Code         | Coupon Code |
 |-------------------|----------------------------|-------------|-----------------------|-------------|
-| PlebSource        | [https://plebsource.com/](https://plebsource.com/) | $130 | Worldwide        |             |
+| PlebSource        | [https://plebsource.com/](https://plebsource.com/) | $130 |         |             |
 |                   |                            |             |                       |             |
 
 ### Europe
