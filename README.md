@@ -14,7 +14,7 @@ Let’s make this a global, comprehensive resource for the Bitaxe Gamma Sale!
 Below are the shops participating in the sale, grouped by country/region. Expect multiple shops per country as the list grows!
 
 ### USA
-| Shop Name         | Website                    | Price       | Coupon Code         | Coupon Code |
+| Shop Name         | Website                    | Price       | Coupon Code         | Shipping Info |
 |-------------------|----------------------------|-------------|-----------------------|-------------|
 | PlebSource        | [https://plebsource.com/](https://plebsource.com/) | $130 |         |             |
 |                   |                            |             |                       |             |
@@ -22,8 +22,8 @@ Below are the shops participating in the sale, grouped by country/region. Expect
 ### Europe
 | Shop Name         | Website                    | Price       | Coupon Code         | Shipping Info |
 |-------------------|----------------------------|-------------|-----------------------|-------------|
-| Bitcoin Brabant   | [https://bitcoinbrabant.com/](https://bitcoinbrabant.com/) |   130€  |        GFY         |             |
-|                   |                            |             |                       |             |
+| 🇳🇱 Bitcoin Brabant   | [https://bitcoinbrabant.com/](https://bitcoinbrabant.com/) |   130€  |        GFY         |             |
+|      🇦🇹 GoBrrr       |    [https://www.gobrrr.me/](https://www.gobrrr.me/)        |             |         PLEBDAY         |             |
 
 ### UK
 | Shop Name         | Website                    | Price       | Coupon Code         | Shipping Info |
