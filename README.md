@@ -16,14 +16,14 @@ Below are the shops participating in the sale, grouped by country/region. Expect
 ### USA
 | Shop Name         | Website                    | Price       | Coupon Code         | Shipping Info |
 |-------------------|----------------------------|-------------|-----------------------|-------------|
-| PlebSource        | [https://plebsource.com/](https://plebsource.com/) | $130 |         |             |
+| 🇺🇸 PlebSource        | [https://plebsource.com/](https://plebsource.com/) | $130 |         |             |
 |                   |                            |             |                       |             |
 
 ### Europe
 | Shop Name         | Website                    | Price       | Coupon Code         | Shipping Info |
 |-------------------|----------------------------|-------------|-----------------------|-------------|
 | 🇳🇱 Bitcoin Brabant   | [https://bitcoinbrabant.com/](https://bitcoinbrabant.com/) |   130€  |        GFY         |             |
-|      🇦🇹 GoBrrr       |    [https://www.gobrrr.me/](https://www.gobrrr.me/)        |             |         PLEBDAY         |             |
+|      🇦🇹 GoBrrr       |    [https://www.gobrrr.me/](https://www.gobrrr.me/)        |      130€    |         PLEBDAY         |             |
 
 ### UK
 | Shop Name         | Website                    | Price       | Coupon Code         | Shipping Info |
