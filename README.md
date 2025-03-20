@@ -22,7 +22,7 @@ Below are the shops participating in the sale, grouped by country/region. Expect
 ### Europe
 | Shop Name         | Website                    | Price       | Coupon Code         | Shipping Info |
 |-------------------|----------------------------|-------------|-----------------------|-------------|
-| 🇳🇱 Bitcoin Brabant   | [https://bitcoinbrabant.com/](https://bitcoinbrabant.com/) |   130€  |        GFY         |             |
+| 🇳🇱 Bitcoin Brabant   | [https://bitcoinbrabant.com/](https://bitcoinbrabant.com/) |   130€  |   "GFY" for $50 off    |  Restricted to 1 order   |
 |      🇦🇹 GoBrrr       |    [https://www.gobrrr.me/](https://www.gobrrr.me/)        |      130€    |         PLEBDAY         |             |
 
 ### UK
